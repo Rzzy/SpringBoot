@@ -1,0 +1,7 @@
+#普通数据的配置
+name: zhangsan
+#对象的配置
+
+
+#行内对象配置
+person: {name: zhangsan,age: 18,addr: shenzhen}
